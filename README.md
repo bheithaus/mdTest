@@ -3,10 +3,12 @@
 
 ### Ordered lists are nice
 1. have a nice quote
+
 >Hi, said the
 >turtle
 >when you slow down, I will catch up
 >	~ Yurtle, 1921
+
 2. there will be no more quotes
 
 ### So are Unordered Lists
@@ -21,7 +23,7 @@
 
 ## a [Google Link][google_link] would be nice
 	
-	Have another [Google Link][google_link]
+Have another [Google Link][google_link]
 
 
 
