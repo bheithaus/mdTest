@@ -4,9 +4,10 @@
 ### Ordered lists are nice
 1. have a nice quote
 
->Hi, said the
->turtle
->when you slow down, I will catch up
+> Hi, said the
+> turtle
+> when you slow down,
+> I will catch up
 >	~ Yurtle, 1921
 
 2. there will be no more quotes
@@ -27,4 +28,4 @@ Have another [Google Link][google_link]
 
 
 
-[google_link]: www.google.com
+[google_link]: http://www.google.com
